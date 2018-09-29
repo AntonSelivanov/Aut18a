@@ -1,5 +1,6 @@
 % This MATLAB program checks the feasibility of LMIs from Theorems 1 and 2 of the paper 
-% A. Selivanov and E. Fridman, "An improved time-delay implementation of derivative-dependent feedback," Automatica, 2018. 
+% A. Selivanov and E. Fridman, "An improved time-delay implementation of derivative-dependent feedback," 
+% Automatica, vol. 98, pp. 269-276, 2018. 
 
 %% Example 1 
 disp('Chain of three integrators') 
