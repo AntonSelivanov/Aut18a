@@ -1,6 +1,7 @@
 function flag=LMI_Aut18a_th2(A,B,C,Kbar,h,alpha)
 % This MATLAB program checks the feasibility of LMIs from Theorem 2 of the paper 
-% A. Selivanov and E. Fridman, "An improved time-delay implementation of derivative-dependent feedback," Automatica, 2018. 
+% A. Selivanov and E. Fridman, "An improved time-delay implementation of derivative-dependent feedback," 
+% Automatica, vol. 98, pp. 269-276, 2018. 
 
 % The program uses YALMIP parser (http://users.isy.liu.se/johanl/yalmip/)
 
